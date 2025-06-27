@@ -6,7 +6,7 @@
 
 ## TODO 🗒️
 - [ ] Refactor editing pipeline
-- [ ] Polish the codes & update the guide
+- [ ] Polish the codes & update the doc
 ---
 
 > **Heads-up!**  
