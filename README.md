@@ -9,6 +9,8 @@
 > [Joohyun Kwon*](https://scholar.google.com/citations?user=WilZkLEAAAAJ&hl=en), [Hanbyel Cho*](https://hanbyelcho.info/) and [Junmo Kim†](https://scholar.google.com/citations?hl=en&user=GdQtWNQAAAAJ) (*Equal contribution, †Corresponding author)\
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition ([CVPR](https://cvpr.thecvf.com/Conferences/2025)), 2025
 
+
+
 ## 🏠 Overview
 Recent 4D dynamic scene editing methods require editing thousands of 2D images used for dynamic scene synthesis and updating the entire scene with additional training loops, resulting in several hours of processing to edit a single dynamic scene. Therefore, these methods are not scalable with respect to the temporal dimension of the dynamic scene (i.e., the number of timesteps). In this work, we propose Instruct-4DGS, an efficient dynamic scene editing method that is more scalable in terms of temporal dimension. To achieve computational efficiency, we leverage a 4D Gaussian representation that models a 4D dynamic scene by combining static 3D Gaussians with a Hexplane-based deformation field, which captures dynamic information. We then perform editing solely on the static 3D Gaussians, which is the minimal but sufficient component required for visual editing. To resolve the misalignment between the edited 3D Gaussians and the deformation field, which may arise from the editing process, we introduce a refinement stage using a score distillation mechanism. Extensive editing results demonstrate that Instruct-4DGS is efficient, reducing editing time by more than half compared to existing methods while achieving high-quality edits that better follow user instructions.
 
@@ -21,8 +23,6 @@ Recent 4D dynamic scene editing methods require editing thousands of 2D images u
 - [ ] Refactor editing pipeline
 - [ ] Polish the codes & update the doc
 
-
-
 > **🔥 Heads-up! 🔥**
 > We’re still cleaning the codebase and writing docs.  
 > **Full release is scheduled for August-September 2025**
@@ -33,6 +33,7 @@ Recent 4D dynamic scene editing methods require editing thousands of 2D images u
 ### Installation
 ```bash
 ```
+
 
 
 ## 🔗 Citation
@@ -47,3 +48,8 @@ If you find our work helpful, please cite:
     pages     = {26855-26865}
 }
 ```
+
+
+
+## :star: Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=juhyeon-kwon/efficient_4d_gaussian_editing&type=Date)](https://www.star-history.com/#juhyeon-kwon/efficient_4d_gaussian_editing&Date)
