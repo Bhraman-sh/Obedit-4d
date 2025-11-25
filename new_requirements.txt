@@ -1,0 +1,29 @@
+brotlicffi @ file:///home/task_176295012145536/conda-bld/brotlicffi_1762950228835/work
+certifi @ file:///home/task_176313475725006/conda-bld/certifi_1763135328462/work/certifi
+cffi @ file:///home/task_176183215827778/conda-bld/cffi_1761832774246/work
+charset-normalizer @ file:///home/task_176174482135433/conda-bld/charset-normalizer_1761744871447/work
+filelock @ file:///home/task_176241979569947/conda-bld/filelock_1762419849833/work
+fsspec @ file:///home/task_176243241290652/conda-bld/fsspec_1762432433174/work
+gmpy2 @ file:///croot/gmpy2_1738085463648/work
+idna @ file:///home/task_176191177045451/conda-bld/idna_1761911980742/work
+importlib_metadata @ file:///croot/importlib_metadata-suite_1732633488278/work
+Jinja2 @ file:///croot/jinja2_1741710844255/work
+MarkupSafe @ file:///croot/markupsafe_1738584038848/work
+mkl-service==2.5.2
+mkl_fft @ file:///home/task_176159252575002/conda-bld/mkl_fft_1761592901585/work
+mkl_random @ file:///home/task_176159293813909/conda-bld/mkl_random_1761592952512/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1737039604450/work
+numpy @ file:///home/task_176157872663408/conda-bld/numpy_and_numpy_base_1761579342634/work/dist/numpy-2.2.5-cp310-cp310-linux_x86_64.whl#sha256=fb5b85b589f86e6404be6a37347b98be70b32c4ae837bb26e1180e9f9a7fb718
+opentelemetry-api @ file:///home/task_175853090325046/conda-bld/opentelemetry-api_1758530917475/work
+pillow @ file:///home/task_176252756305210/conda-bld/pillow_1762528238325/work
+pycparser @ file:///home/task_175749556993857/conda-bld/pycparser_1757496041120/work
+PySocks @ file:///home/task_176175228103966/conda-bld/pysocks_1761753009555/work
+requests @ file:///home/task_176235919024464/conda-bld/requests_1762359590301/work
+sympy @ file:///croot/sympy_1756713465822/work
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+urllib3 @ file:///croot/urllib3_1750775463400/work
+zipp @ file:///croot/zipp_1732630741423/work
